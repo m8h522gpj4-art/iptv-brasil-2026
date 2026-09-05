@@ -1,0 +1,18 @@
+{
+  "configVersion": 1,
+  "playlists": [
+    {
+      "name": "Sample Playlist",
+      "type": "m3u",
+      "url": "https://example.com/sample.m3u"
+    },
+    {
+      "name": "Direct HLS",
+      "type": "hls",
+      "url": "https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8"
+    }
+  ],
+  "preferences": {
+    "autoPlay": false
+  }
+}
